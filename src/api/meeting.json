@@ -1,0 +1,20 @@
+{
+	"meetings": [
+		{
+			"id": "M1",
+			"titile": "Introduction of reactJS",
+			"date": "2019-05-24",
+			"startTime": "09:00",
+			"endTime": "10:00",
+			"meetingRoom": "B1-MR1"
+		},
+		{
+			"id": "M2",
+			"titile": "Introduction of JS",
+			"date": "2019-05-25",
+			"startTime": "13:00",
+			"endTime": "14:00",
+			"meetingRoom": "B1-MR1"
+		}
+	]
+}

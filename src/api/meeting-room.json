@@ -1,0 +1,39 @@
+{
+	"meetingRooms": [
+		{
+			"id": "B1-MR1",
+			"name": "APR-10",
+			"floor": 1,
+			"building": "B1",
+			"meetings": ["M1", "M2"]
+		},
+		{
+			"id": "B1-MR2",
+			"name": "APR-11",
+			"floor": 2,
+			"building": "B1",
+			"meetings": []
+		},
+		{
+			"id": "B1-MR3",
+			"name": "APR-12",
+			"floor": 3,
+			"building": "B1",
+			"meetings": []
+		},
+		{
+			"id": "B2-MR1",
+			"name": "APR-21",
+			"floor": 1,
+			"building": "B2",
+			"meetings": []
+		},
+		{
+			"id": "B2-MR2",
+			"name": "APR-22",
+			"floor": 2,
+			"building": "B2",
+			"meetings": []
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"buildings": [
+		{
+			"id": "B1",
+			"name": "Sahara Building",
+			"meetingRooms": ["B1-MR1", "B1-MR2", "B1-MR3"]
+		},
+		{
+			"id": "B2",
+			"name": "Asha Building",
+			"meetingRooms": ["B2-MR1", "B2-MR2"]
+		}
+	]
+}
